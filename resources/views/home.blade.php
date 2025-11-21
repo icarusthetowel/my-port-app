@@ -9,5 +9,6 @@
 <body>
   <h1>Welcome to My Portfolio</h1>
   <p>This is my custom Laravel page.</p>
+  <script src="{{ asset('app.js') }}"></script>
 </body>
 </html>
